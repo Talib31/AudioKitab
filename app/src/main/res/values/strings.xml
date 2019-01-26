@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AudioKitab</string>
+    <string name="nav_books">Books</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_map">Map</string>
+    <string name="book">BOOKS</string>
+    <string name="listen">Listen</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="narrated_by">Narrated by</string>
+    <string name="age_limit">18+</string>
+    <string name="detail_mbs">12 MB</string>
+    <string name="summary">SUMMARY</string>
+    <string name="length">LENGTH:</string>
+    <string name="hours">18 H ,9M</string>
+    <string name="release_date">Release Date:</string>
+</resources>
